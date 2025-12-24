@@ -1,7 +1,7 @@
 # Hi! I'm Riddhima :)
 
 ### Aspiring Data Scientist | GSoC 2026 Candidate
-I'm a first-year student passionate about using Data Science and AI to solve real-world problems. I'm currently focused on transitioning from Java to Python and contributing to open-source communities.
+I'm a first-year undergraduate student passionate about using Data Science and AI to solve real-world problems. I'm currently focused on transitioning from Java to Python and contributing to open-source communities.
 
 -  **Currently Learning:** Python, C++, and Pandas
 -  **GSoC 2026 Goal:** Making my first meaningful contributions to Open Science Labs
